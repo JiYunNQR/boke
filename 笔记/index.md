@@ -6,7 +6,6 @@
 
 ## 想要自己部署和在本地启动强大的 Nólëbase 知识库，或者自己拥有一份？
 
-很高兴你对 [Nólëbase](https://nolebase.ayaka.io) 感兴趣！
 
 ### 背景介绍
 
